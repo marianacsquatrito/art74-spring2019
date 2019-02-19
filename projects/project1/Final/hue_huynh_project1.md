@@ -10,7 +10,7 @@
     * [Kanlayarawit/Adobe Stock A](https://stock.adobe.com/images/set-of-isolated-amaryllis-or-hippeastrum-in-44-styles-cute-hand-drawn-flower-vector-illustration-in-black-outline-and-white-plane-on-white-background/181576759)
     * [Kanlayarawit/Adobe Stock B](https://stock.adobe.com/images/set-of-isolated-lavender-in-20-styles-cute-hand-drawn-flower-vector-illustration-in-black-outline-and-white-plane/192106129)
     * [Getty Images/Borchee](https://www.gettyimages.com/detail/photo/siberian-bugloss-royalty-free-image/509263374)
-    * Flora motif from Gucci Pre-fall 2018
+    * Flora motif from Gucci Pre-fall 2017
   * Butterflies from Playfirst/Glu.
   
 ### Project Description  
