@@ -19,6 +19,6 @@ My collage integrates the Flora motif into a digital setting. Through augmented 
 The motivation behind the composition's art style arose purely from aesthetics. The arrangement of flowers, no matter how haphazardly still resulted in a visually pleasing piece. The decisions behind the approach towards augmented reality stemmed from our fourth reading. Artist Helen Papagiannis added dynamism to a plain static children's book, by adding moving insects in settings with plants. Her effort to create a more immersive experience was what drove my artistic direction. In BlippAR, I moved certain flowers forward to create a parallax effect, similar to the home screen of the iPhone. In addition, I also added butterflies which I felt complement the floral motifs.
 
 ### Links:
-* Collage image: https://drive.google.com/file/d/19MGO8NkE7qhLVWCDQH9MxgKhC41khJ9z/view?usp=sharing
-* Gif:
+* Collage image: https://i.imgur.com/QCXHqCd.png
+* Gif: https://i.imgur.com/rqSXlzH.gifv
 * Video:
