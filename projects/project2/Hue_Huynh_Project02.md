@@ -6,7 +6,7 @@
 
 **Size:** 1920px x 1080px
 
-**Duration:** >1 minute
+**Duration:** 1:06
 
 **Attributions/Credits:**
 **Music:** Playfirst/Gamelab
