@@ -8,7 +8,7 @@
 
 **Duration:** 1:06
 
-**Attributions/Credits:**
+**Attributions/Credits:**<br>
 **Music:** Playfirst/Gamelab<br>
 **SFX:**<br>
 Audio Productions/YouTube<br>
