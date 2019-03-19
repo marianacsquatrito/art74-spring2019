@@ -29,7 +29,7 @@ My video interprets the process of transforming plastic bottle (PET) waste into 
 
 The project itself was to illuminate on a process of recycling PET waste, specifically plastic bottles into something that has a broader range of lasting use. It’s cheap, easily integrated into apparel, insulation, and furniture. In a more visually palatable and easily digestible form, awareness of the process could be easier to achieve hopefully encouraging audiences to think more about their purchases. 
 
-Recycling PET into polyester proves to be something viable for litter at beaches. Recycled polyester consumes less energy than virgin polyester to produce and performs essentially the same. However, we must also not that recycling isn’t an energy-free process. It’s more important to reduce the PET waste that accumulates as litter.
+Recycling PET into polyester proves to be something viable for litter at beaches. Recycled polyester consumes less energy than virgin polyester to produce and performs essentially the same. However, we must also note that recycling isn’t an energy-free process. It’s more important to reduce the PET waste that accumulates as litter.
 
 The video was created with a careful disposition of 3D models in a 2D viewport. This created an illusion of the elements connected and interacting seamlessly. Rendering of the 3D elements took place in 3DS Max and later arranged in After Effects. Effects such as particle systems, special lighting, and backgrounds were added to enhance the scene. Scenes were rendered and finally edited, spliced, with audio in Premiere Pro.
 
