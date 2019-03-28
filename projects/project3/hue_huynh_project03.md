@@ -18,7 +18,7 @@ House - Inspired by Playfirst/Katgames
 
 **Info:**<br>
 My 3-D model is a environment, depicting a home that float on water. Transport is through the docks and the rowboat. Decor such as barrels, vases fill up the environment while providing visual interest. 
-The inspiration came from the streets of Venice and [homes in the Netherlands that float on the water](https://www.youtube.com/watch?v=Xx80ExUA1Pc). However, my composition discards levels of realism. The irregularly shaped home, the dock, the presence of unconventional decor makes the composition more imaginative and fictional.
+The inspiration came from the streets of Venice and [homes in the Netherlands that float on the water](https://www.youtube.com/watch?v=Xx80ExUA1Pc). However, my composition discards levels of realism. The unconventionally shaped house, the dock, the presence of unconventional decor makes the composition more imaginative, nautical, and fictional.
 
 The composition underwent many processes in two 3-D modeling applications. Free 3-D models were downloaded from Turbosquid and processed, fine-tuned, and converted in 3DS Max. Blender was where the majority of the work was completed. The ocean was made using a Blender modifier and 3-D models processed through 3DS Max were positioned and aligned into the scene. The intention was to also include materials, shaders, and animation to create a more immersive experience, especially when viewed through a VR headset. However, it might not be possible due to Sketchfab’s limitations. 
 
