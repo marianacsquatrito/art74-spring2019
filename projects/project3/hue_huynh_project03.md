@@ -9,10 +9,10 @@
 **Attributions/Credits:**<br>
 **3D Models:**<br>
 Decorative Outdoor Grass 2 — [macrox/Turbosquid](https://www.turbosquid.com/FullPreview/Index.cfm/ID/869778)<br>
-Art Nouveau Vase — Ilirjan Leci/GrabCAD<br>
+Art Nouveau Vase — [Arkeofact/Sketchfab](https://sketchfab.com/3d-models/vase-art-nouveau-3c548ce890524a9c888270267d4e9efd)<br>
 Barrel — [FromaVoid3d/Turbosquid](https://www.turbosquid.com/FullPreview/Index.cfm/ID/1169842)<br>
 Wooden Dock — [gldev/Turbosquid](https://www.turbosquid.com/FullPreview/Index.cfm/ID/676898)<br>
-Rowboat — Trifon-Ioannis Lampropoulos/GrabCAD<br>
+Rowboat — [Sergey Vovseivanovsky/GrabCAD](https://grabcad.com/library/old-boats-pack-1)<br>
 **Other Elements:**<br>
 House - Inspired by Playfirst/Katgames
 
