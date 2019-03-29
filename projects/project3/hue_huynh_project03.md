@@ -1,7 +1,9 @@
 # Bateau Village
 
 **Animated Blender file:** https://drive.google.com/file/d/1TwhPMCFTqUUwmjy38SVnOiUet-c1niKU/view?usp=sharing <br>
-**Static Sketchfab file:** https://skfb.ly/6ITCq
+**Static Sketchfab file:** https://skfb.ly/6ITCq <br>
+**Animated and VR optimized Sketchfab file:** https://skfb.ly/6IUHL
+
 
 **Medium:** 3D Model/WebGL Render
 
