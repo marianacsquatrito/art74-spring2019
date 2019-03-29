@@ -1,6 +1,7 @@
 # Bateau Village
 
-**Link:** https://drive.google.com/file/d/1GHaMDo-QIL6jGm50neOwatv3BwoQ7Jwg/view?usp=sharing
+**Blender file:** https://drive.google.com/file/d/1GHaMDo-QIL6jGm50neOwatv3BwoQ7Jwg/view?usp=sharing
+**Static Sketchfab file:** https://skfb.ly/6ITCq
 
 **Medium:** 3D Model/WebGL Render
 
