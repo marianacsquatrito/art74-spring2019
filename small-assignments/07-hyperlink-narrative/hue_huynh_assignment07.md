@@ -1,1 +1,1 @@
-Link: [purplerutaba.ga](purplerutaba.ga)
+Link: [purplerutaba.ga](http://www.purplerutaba.ga)
