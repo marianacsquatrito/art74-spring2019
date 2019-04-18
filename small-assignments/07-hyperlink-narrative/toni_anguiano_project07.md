@@ -1,2 +1,3 @@
- sijmply created a transparent torus that has been altered into a star form, spinning, rotating and<b>
- surrounded by floating particles. http://threejsplaygnd.brangerbriz.net/editor/editor.html
+ I coded a colorful transparent torus shape that I altered into a star form. It spins, rotates and
+ is surrounded by floating purple particles circling the star. Created on Threejsplaygnd.brangerbriz.net: 
+ http://threejsplaygnd.brangerbriz.net/editor/editor.html
