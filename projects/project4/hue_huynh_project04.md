@@ -1,1 +1,1 @@
-Link: [cheesy-chimichan.ga](www.cheesy-chimichan.ga)
+Link: [cheesy-chimichan.ga](https://www.cheesy-chimichan.ga)
