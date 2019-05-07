@@ -1,18 +1,18 @@
-H1 e-folio
+#e-folio
 
 https://tanguiano92.github.io/
 
-H2 Documentation:
+##Documentation:
 
-H3 Title:
+###Title:
 
 Toni Anguiano: Digital Art Portfolio
 
-H3 Medium:
+###Medium:
 
 Atom, css, javascript
 
-H3 Attributes:
+###Attributes:
 
 1. threejsplaygnd.brangerbriz.net
 2. Atom
