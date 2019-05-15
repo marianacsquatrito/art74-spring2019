@@ -9,7 +9,7 @@ To create a more immersive and dynamic experience, viewers can click on a bubble
 
 To create this environment, coding the initial version was performed through Processing, an open-source graphical library. The finished code was then translated and ported into p5.js where it's able to be displayed on the web. 
 
-The biggest flaw of the project is its lack of smoothness across browsers. Displaying the webpage in Safari or Firefox will cause the browser, possibly the whole computer as well, to lag. Lagging doesn't appear in Chrome. However, certain CSS effects such as -webkit-backdrop-filter (automatically available in Safari) will need to be enabled in Chrome's HTML experimental settings page to deliver a better experience.
+The biggest flaw of the project is its lack of smoothness. Due to its immense detail and amound of objects to render per second, it will cause the browser to lag and may cause the computer to consume more memory and CPU power. Because of this, I chose to exclude animated background elements such as swaying seaweed and swimming fish.
 
 ### Credits
 ##### Background: 
